@@ -1,0 +1,8 @@
+Features:
+
+Home Page: Ek welcome page.
+Products Page: Jahan saare products ki list dikhegi.
+Product Detail Page: Jab kisi product par click karenge, to uski detail page khulegi.
+Add to Cart: User products ko ek shopping cart mein add kar payega.
+Search/Filter: Products ko naam se search karna.
+Navbar: Home, Products, aur Cart pages ke beech navigate karne ke liye.
