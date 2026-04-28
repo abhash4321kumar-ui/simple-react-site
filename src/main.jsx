@@ -9,7 +9,7 @@ import Maincontext from './context/Maincontext.jsx'
 
 createRoot(document.getElementById('root')).render(
   <Maincontext>
-    <BrowserRouter>
+    <BrowserRouter basename="/simple-react-site">
     <App />
   </BrowserRouter>
   </Maincontext>
